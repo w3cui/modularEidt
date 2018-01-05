@@ -65,7 +65,7 @@
 /******/ 	}
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "5da99e9ed2f2e905e46e"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "3808ff64916b8e60c351"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -20848,8 +20848,6 @@
 	} /*
 	   * 路由配置
 	   */
-
-	console.log(state);
 
 	// 通用路由配置
 	exports.default = {
